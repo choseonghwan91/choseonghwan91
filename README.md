@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align='center'>Nice to meet you!🙋🏻‍♂️ I'm Mr.Cho😃</h1>
-<div align='center'>
-  <ul align='left'>
-    <li><h2>🙃 Developer who enjoys it.</h2></li>
-    <li><h2>🙂 Developers who provide convenience.</h2></li>
-  </ul>
-</div>
+<ul align='center'>
+	<li><h2>🙃 저는 주니어 프론트엔드 개발자 입니다, I'm a junior frontend developer.</h2></li>
+	<li><h2>🙃 코딩을 즐기는 개발자 입니다, I'm a developer who enjoys coding.</h2></li>
+	<li><h2>🙂 사용자의 편의를 중요시 생각하는 개발자 입니다, I'm a developer who values user convenience.</h2></li>
+</ul>
+
 	
 <div margin-left="100px"> 
   <h2>contact</h2>
