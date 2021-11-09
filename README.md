@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 	
 <a href="https://fallacious-sunset-fd2.notion.site/Cho-SeongHwan-d0ae488a76404bc18a3e6f41b76df14b" target="_blank">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:choseonghwan91@gmail.com)](mailto:choseonghwan91@gmail.com)
+	<a href='www.naver.com' target='_blank'>test</a>
 </div>
