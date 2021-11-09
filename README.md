@@ -16,7 +16,6 @@
 
 </br>
 </br>
-</br>
 
 <div align='center'>
 	
@@ -25,7 +24,6 @@
 <a href="https://velog.io/@chosh91" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white" style='width:87px; height:28px;'/></a> &nbsp;
 </div>
 
-</br>
 </br>
 </br>
 
