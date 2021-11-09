@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 	<li><h3>🙂 사용자의 편의를 중요시 생각하는 개발자 입니다, I'm a developer who values user convenience.</h3></li>
 </ul>
 
-	
-<div margin-left="100px"> 
-  <h2>contact</h2>
-  - <a href="mailto:choseonghwan91@gmail.com">choseonghwan91@gmail.com 📨</a>
+<div align='center'>
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://fallacious-sunset-fd2.notion.site/Cho-SeongHwan-d0ae488a76404bc18a3e6f41b76df14b/)](https://fallacious-sunset-fd2.notion.site/Cho-SeongHwan-d0ae488a76404bc18a3e6f41b76df14b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:choseonghwan91@gmail.com)](mailto:choseonghwan91@gmail.com)
 </div>
-
 
 	
