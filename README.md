@@ -1,14 +1,22 @@
 <div align='center'>
 	
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ChoSeongHwan&fontAlign=70&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ChoSeongHwan&fontAlign=65&fontAlignY=40&color=gradient)
 </div>
 	
 <h1 align='center'>Nice to meet you!🙋🏻‍♂️ I'm Mr.Cho😃</h1>
+
+</br>
+</br>
+
 <ul>
 	<li><h3>👨🏻‍💻 저는 주니어 프론트엔드 개발자 입니다, I'm a junior frontend developer.</h3></li>
 	<li><h3>🙃 코딩을 즐기는 개발자 입니다, I'm a developer who enjoys coding.</h3></li>
 	<li><h3>🙂 사용자의 편의를 중요시 생각하는 개발자 입니다, I'm a developer who values user convenience.</h3></li>
 </ul>
+
+</br>
+</br>
+</br>
 
 <div align='center'>
 	
@@ -17,7 +25,11 @@
 <a href="https://velog.io/@chosh91" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white" style='width:87px; height:28px;'/></a> &nbsp;
 </div>
 
-<div align='center' style='margin-top:50px'>
+</br>
+</br>
+</br>
+
+<div align='center'>
 	<h2> 🖋 Skills</h2></br>
 	<span><img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></span> &nbsp;
 	<span><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></span> &nbsp;
