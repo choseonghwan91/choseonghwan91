@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align='center'>Nice to meet you!🙋🏻‍♂️ I'm Mr.Cho😃</h1>
 <div align='center'>
-  <ul width="300px">
+  <ul align='left' width="100px">
     <li><h2>🙃 Developer who enjoys it.</h2></li>
     <li><h2>🙂 Developers who provide convenience.</h2></li>
   </ul>
