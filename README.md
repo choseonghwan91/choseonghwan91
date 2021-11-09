@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="width:100%; height:100px; margin-bottom:100px; background-color:red;"></div>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <h1 align='center'>Nice to meet you!🙋🏻‍♂️ I'm Mr.Cho😃</h1>
 <ul>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align='center'>
-	<h2> 🖋 Tech Stack </h2></br>
+	<h2> 🖋 Skills</h2></br>
 	<span><img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></span> &nbsp;
 	<span><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></span> &nbsp;
 	<span><img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span> &nbsp; </br>
