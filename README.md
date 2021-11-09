@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align='center'>Nice to meet you!🙋🏻‍♂️ I'm Mr.Cho😃</h1>
-<ul align='left'>
+<ul>
 	<li><h3>🙃 저는 주니어 프론트엔드 개발자 입니다, I'm a junior frontend developer.</h3></li>
 	<li><h3>🙃 코딩을 즐기는 개발자 입니다, I'm a developer who enjoys coding.</h3></li>
 	<li><h3>🙂 사용자의 편의를 중요시 생각하는 개발자 입니다, I'm a developer who values user convenience.</h3></li>
@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 	
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://fallacious-sunset-fd2.notion.site/Cho-SeongHwan-d0ae488a76404bc18a3e6f41b76df14b)](https://fallacious-sunset-fd2.notion.site/Cho-SeongHwan-d0ae488a76404bc18a3e6f41b76df14b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:choseonghwan91@gmail.com)](mailto:choseonghwan91@gmail.com)
+	
+<a href="https://velog.io/@chosh91" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> &nbsp;
 </div>
