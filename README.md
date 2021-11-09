@@ -27,7 +27,7 @@
 </br>
 </br>
 
-<div align='center' margin-top='100px'>
+<div align='center' style='margin-top:100px'>
 	<h2> 🖋 Skills</h2></br>
 	<span><img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></span> &nbsp;
 	<span><img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></span> &nbsp;
