@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ChoSeongHwan&fontAlign=80&fontAlignY=40&color=gradient%width=100%)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ChoSeongHwan&fontAlign=80&fontAlignY=40&color=gradient&width=100%)
 
 <h1 align='center'>Nice to meet you!🙋🏻‍♂️ I'm Mr.Cho😃</h1>
 <ul>
