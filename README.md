@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div width:'100%' height:'100px' margin-bottom:'100px'></div>
+<div style='width:100%; height:100px; margin-bottom:100px; background-color:powderblue'></div>
 
 <h1 align='center'>Nice to meet you!🙋🏻‍♂️ I'm Mr.Cho😃</h1>
 <ul>
