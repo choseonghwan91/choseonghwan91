@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <h1 align='center'>Nice to meet you!🙋🏻‍♂️ I'm Mr.Cho😃</h1>
 <ul margin-left="100px">
-  <li>- 🙃 Developer who enjoys it.</li>
-  <li>- 🙂 Developers who provide convenience.</li>
+	<li><h2>🙃 Developer who enjoys it.</h2></li>
+	<li><h2>🙂 Developers who provide convenience.</h2></li>
 </ul>
 
 <div margin-left="100px"> 
