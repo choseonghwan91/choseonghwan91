@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:choseonghwan91@gmail.com)](mailto:choseonghwan91@gmail.com)
 </div>
 
-	
+	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
