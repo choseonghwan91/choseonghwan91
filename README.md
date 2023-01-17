@@ -3,15 +3,15 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ChoSeongHwan&fontAlign=65&fontAlignY=40&color=gradient)
 </div>
 	
-<h1 align='center'>Nice to meet you!🙋🏻‍♂️ I'm Mr.Cho😃</h1>
+<h1 align='center'>안녕하세요 반갑습니다!🙋🏻‍♂️ 개발자 조성환 입니다😃</h1>
 
 </br>
 </br>
 
 <ul>
-	<li><h3>👨🏻‍💻 저는 주니어 프론트엔드 개발자 입니다, I'm a junior frontend developer.</h3></li>
-	<li><h3>🙃 코딩을 즐기는 개발자 입니다, I'm a developer who enjoys coding.</h3></li>
-	<li><h3>🙂 사용자의 편의를 중요시 생각하는 개발자 입니다, I'm a developer who values user convenience.</h3></li>
+	<li><h3>👨🏻‍💻 저는 React, React Native를 사용하는 2년차 개발자 입니다.</h3></li>
+	<li><h3>🙃 관심있는 기술 스택은 Swift 입니다.</h3></li>
+	<li><h3>🙂 가독성이 좋은 코드를 지향합니다.</h3></li>
 </ul>
 
 </br>
