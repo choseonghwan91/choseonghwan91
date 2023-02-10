@@ -27,20 +27,6 @@
 </br>
 </br>
 
-<div align='center'>
-	<h2> 🖋 Skills</h2></br>
-	<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-	<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
-	<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
-	<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
-	<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"></span>&nbsp;
-	<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>
-	</br>
-</div>
-
-</br>
-</br>
-
 <div align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=choseonghwan91&show_icons=true&locale=en&layout=compact" alt="choseonghwan91" /></div>
 
 
