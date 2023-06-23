@@ -9,7 +9,7 @@
 </br>
 
 <ul>
-	<li><h3>👨🏻‍💻 저는 React, React Native를 사용하는 2년차 개발자 입니다.</h3></li>
+	<li><h3>👨🏻‍💻 저는 React, React Native를 사용하는 1년차 개발자 입니다.</h3></li>
 	<li><h3>🙃 관심있는 기술 스택은 Swift, Next.js 입니다.</h3></li>
 	<li><h3>🙂 가독성이 좋은 코드를 작성하기 위해 노력하고 있습니다.</h3></li>
 </ul>
